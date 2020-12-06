@@ -13,4 +13,3 @@ def beats(task_1, task_2):
         return task_1.choice
     elif  task_2.choice == 'rock' and task_1.choice == 'scissors':
         return task_2.choice
-
