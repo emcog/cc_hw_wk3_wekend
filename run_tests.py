@@ -1,7 +1,7 @@
 import unittest
 
-from tests.task_test import TestTask
-from tests.task_decider_test import TestTaskDecider
+from tests.test_choice import TestChoice
+from tests.test_what_wins import TestPlayerChoice
 
 if __name__ == '__main__':
     unittest.main()
