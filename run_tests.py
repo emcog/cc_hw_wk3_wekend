@@ -1,9 +1,6 @@
 import unittest
-
-# from tests.test_choice import TestChoice
-# from tests.test_what_wins import TestPlayerChoice
-# from tests.test_player_choice import TestPlayer
-from tests.test_Play import TestPlayClass
+# from tests.test_Play import TestPlayClass
+from tests.test_x_beats_y import Test_X_Beats_Y
 
 
 if __name__ == '__main__':
